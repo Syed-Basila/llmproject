@@ -22,3 +22,31 @@ To get started with the Language Translator, follow these steps:
 1. **Install Google Translate Library**:
    ```bash
    pip install googletrans==4.0.0-rc1
+
+
+
+## **2. Chatbot**
+
+### **Installation**
+
+   ```bash
+   pip install googletrans==4.0.0-rc1
+```
+```bash
+ pip install notebook 
+```
+```bash
+python -m notebook 
+```
+```bash
+pip install langchain--community 
+```
+```bash
+pip install langchain_core 
+```
+```bash
+pip install streamlit or conda install streamlit 
+```
+```bash
+ streamlit run chatbot.py
+```
